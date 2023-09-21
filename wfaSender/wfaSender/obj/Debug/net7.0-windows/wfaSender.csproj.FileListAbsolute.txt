@@ -1,0 +1,16 @@
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaSender\wfaSender\bin\Debug\net7.0-windows\wfaSender.exe
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaSender\wfaSender\bin\Debug\net7.0-windows\wfaSender.deps.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaSender\wfaSender\bin\Debug\net7.0-windows\wfaSender.runtimeconfig.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaSender\wfaSender\bin\Debug\net7.0-windows\wfaSender.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaSender\wfaSender\bin\Debug\net7.0-windows\wfaSender.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaSender\wfaSender\obj\Debug\net7.0-windows\wfaSender.Form1.resources
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaSender\wfaSender\obj\Debug\net7.0-windows\wfaSender.csproj.GenerateResource.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaSender\wfaSender\obj\Debug\net7.0-windows\wfaSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaSender\wfaSender\obj\Debug\net7.0-windows\wfaSender.AssemblyInfoInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaSender\wfaSender\obj\Debug\net7.0-windows\wfaSender.AssemblyInfo.cs
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaSender\wfaSender\obj\Debug\net7.0-windows\wfaSender.csproj.CoreCompileInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaSender\wfaSender\obj\Debug\net7.0-windows\wfaSender.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaSender\wfaSender\obj\Debug\net7.0-windows\refint\wfaSender.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaSender\wfaSender\obj\Debug\net7.0-windows\wfaSender.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaSender\wfaSender\obj\Debug\net7.0-windows\wfaSender.genruntimeconfig.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaSender\wfaSender\obj\Debug\net7.0-windows\ref\wfaSender.dll

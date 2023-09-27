@@ -1,0 +1,16 @@
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\wfaEvent\wfaEvent\bin\Debug\net7.0-windows\wfaEvent.exe
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\wfaEvent\wfaEvent\bin\Debug\net7.0-windows\wfaEvent.deps.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\wfaEvent\wfaEvent\bin\Debug\net7.0-windows\wfaEvent.runtimeconfig.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\wfaEvent\wfaEvent\bin\Debug\net7.0-windows\wfaEvent.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\wfaEvent\wfaEvent\bin\Debug\net7.0-windows\wfaEvent.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\wfaEvent\wfaEvent\obj\Debug\net7.0-windows\wfaEvent.Form1.resources
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\wfaEvent\wfaEvent\obj\Debug\net7.0-windows\wfaEvent.csproj.GenerateResource.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\wfaEvent\wfaEvent\obj\Debug\net7.0-windows\wfaEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\wfaEvent\wfaEvent\obj\Debug\net7.0-windows\wfaEvent.AssemblyInfoInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\wfaEvent\wfaEvent\obj\Debug\net7.0-windows\wfaEvent.AssemblyInfo.cs
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\wfaEvent\wfaEvent\obj\Debug\net7.0-windows\wfaEvent.csproj.CoreCompileInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\wfaEvent\wfaEvent\obj\Debug\net7.0-windows\wfaEvent.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\wfaEvent\wfaEvent\obj\Debug\net7.0-windows\refint\wfaEvent.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\wfaEvent\wfaEvent\obj\Debug\net7.0-windows\wfaEvent.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\wfaEvent\wfaEvent\obj\Debug\net7.0-windows\wfaEvent.genruntimeconfig.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\wfaEvent\wfaEvent\obj\Debug\net7.0-windows\ref\wfaEvent.dll

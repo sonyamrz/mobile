@@ -1,0 +1,16 @@
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlCreate\wfaControlCreate\bin\Debug\net7.0-windows\wfaControlCreate.exe
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlCreate\wfaControlCreate\bin\Debug\net7.0-windows\wfaControlCreate.deps.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlCreate\wfaControlCreate\bin\Debug\net7.0-windows\wfaControlCreate.runtimeconfig.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlCreate\wfaControlCreate\bin\Debug\net7.0-windows\wfaControlCreate.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlCreate\wfaControlCreate\bin\Debug\net7.0-windows\wfaControlCreate.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlCreate\wfaControlCreate\obj\Debug\net7.0-windows\wfaControlCreate.Form1.resources
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlCreate\wfaControlCreate\obj\Debug\net7.0-windows\wfaControlCreate.csproj.GenerateResource.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlCreate\wfaControlCreate\obj\Debug\net7.0-windows\wfaControlCreate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlCreate\wfaControlCreate\obj\Debug\net7.0-windows\wfaControlCreate.AssemblyInfoInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlCreate\wfaControlCreate\obj\Debug\net7.0-windows\wfaControlCreate.AssemblyInfo.cs
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlCreate\wfaControlCreate\obj\Debug\net7.0-windows\wfaControlCreate.csproj.CoreCompileInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlCreate\wfaControlCreate\obj\Debug\net7.0-windows\wfaControlCreate.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlCreate\wfaControlCreate\obj\Debug\net7.0-windows\refint\wfaControlCreate.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlCreate\wfaControlCreate\obj\Debug\net7.0-windows\wfaControlCreate.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlCreate\wfaControlCreate\obj\Debug\net7.0-windows\wfaControlCreate.genruntimeconfig.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlCreate\wfaControlCreate\obj\Debug\net7.0-windows\ref\wfaControlCreate.dll

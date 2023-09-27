@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\wfaSender",
+    "\\wfaSender\\wfaSender"
   ],
+  "SelectedNode": "\\wfaSender\\wfaSender\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }

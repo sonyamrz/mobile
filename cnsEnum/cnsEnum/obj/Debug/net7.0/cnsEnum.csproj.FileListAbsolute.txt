@@ -1,0 +1,14 @@
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsEnum\cnsEnum\obj\Debug\net7.0\cnsEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsEnum\cnsEnum\obj\Debug\net7.0\cnsEnum.AssemblyInfoInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsEnum\cnsEnum\obj\Debug\net7.0\cnsEnum.AssemblyInfo.cs
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsEnum\cnsEnum\obj\Debug\net7.0\cnsEnum.csproj.CoreCompileInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsEnum\cnsEnum\bin\Debug\net7.0\cnsEnum.exe
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsEnum\cnsEnum\bin\Debug\net7.0\cnsEnum.deps.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsEnum\cnsEnum\bin\Debug\net7.0\cnsEnum.runtimeconfig.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsEnum\cnsEnum\bin\Debug\net7.0\cnsEnum.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsEnum\cnsEnum\bin\Debug\net7.0\cnsEnum.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsEnum\cnsEnum\obj\Debug\net7.0\cnsEnum.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsEnum\cnsEnum\obj\Debug\net7.0\refint\cnsEnum.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsEnum\cnsEnum\obj\Debug\net7.0\cnsEnum.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsEnum\cnsEnum\obj\Debug\net7.0\cnsEnum.genruntimeconfig.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsEnum\cnsEnum\obj\Debug\net7.0\ref\cnsEnum.dll

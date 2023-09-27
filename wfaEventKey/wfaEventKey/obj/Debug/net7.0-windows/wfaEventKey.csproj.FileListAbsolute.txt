@@ -1,0 +1,16 @@
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaEventKey\wfaEventKey\obj\Debug\net7.0-windows\wfaEventKey.Form1.resources
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaEventKey\wfaEventKey\obj\Debug\net7.0-windows\wfaEventKey.csproj.GenerateResource.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaEventKey\wfaEventKey\obj\Debug\net7.0-windows\wfaEventKey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaEventKey\wfaEventKey\obj\Debug\net7.0-windows\wfaEventKey.AssemblyInfoInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaEventKey\wfaEventKey\obj\Debug\net7.0-windows\wfaEventKey.AssemblyInfo.cs
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaEventKey\wfaEventKey\obj\Debug\net7.0-windows\wfaEventKey.csproj.CoreCompileInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaEventKey\wfaEventKey\bin\Debug\net7.0-windows\wfaEventKey.exe
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaEventKey\wfaEventKey\bin\Debug\net7.0-windows\wfaEventKey.deps.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaEventKey\wfaEventKey\bin\Debug\net7.0-windows\wfaEventKey.runtimeconfig.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaEventKey\wfaEventKey\bin\Debug\net7.0-windows\wfaEventKey.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaEventKey\wfaEventKey\bin\Debug\net7.0-windows\wfaEventKey.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaEventKey\wfaEventKey\obj\Debug\net7.0-windows\wfaEventKey.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaEventKey\wfaEventKey\obj\Debug\net7.0-windows\refint\wfaEventKey.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaEventKey\wfaEventKey\obj\Debug\net7.0-windows\wfaEventKey.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaEventKey\wfaEventKey\obj\Debug\net7.0-windows\wfaEventKey.genruntimeconfig.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaEventKey\wfaEventKey\obj\Debug\net7.0-windows\ref\wfaEventKey.dll

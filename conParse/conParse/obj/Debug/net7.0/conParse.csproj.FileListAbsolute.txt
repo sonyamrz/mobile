@@ -1,0 +1,14 @@
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\conParse\conParse\bin\Debug\net7.0\conParse.exe
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\conParse\conParse\bin\Debug\net7.0\conParse.deps.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\conParse\conParse\bin\Debug\net7.0\conParse.runtimeconfig.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\conParse\conParse\bin\Debug\net7.0\conParse.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\conParse\conParse\bin\Debug\net7.0\conParse.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\conParse\conParse\obj\Debug\net7.0\conParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\conParse\conParse\obj\Debug\net7.0\conParse.AssemblyInfoInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\conParse\conParse\obj\Debug\net7.0\conParse.AssemblyInfo.cs
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\conParse\conParse\obj\Debug\net7.0\conParse.csproj.CoreCompileInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\conParse\conParse\obj\Debug\net7.0\conParse.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\conParse\conParse\obj\Debug\net7.0\refint\conParse.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\conParse\conParse\obj\Debug\net7.0\conParse.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\conParse\conParse\obj\Debug\net7.0\conParse.genruntimeconfig.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\conParse\conParse\obj\Debug\net7.0\ref\conParse.dll

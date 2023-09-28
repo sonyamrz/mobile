@@ -1,0 +1,14 @@
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\cnsTuple\cnsTuple\bin\Debug\net7.0\cnsTuple.exe
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\cnsTuple\cnsTuple\bin\Debug\net7.0\cnsTuple.deps.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\cnsTuple\cnsTuple\bin\Debug\net7.0\cnsTuple.runtimeconfig.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\cnsTuple\cnsTuple\bin\Debug\net7.0\cnsTuple.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\cnsTuple\cnsTuple\bin\Debug\net7.0\cnsTuple.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\cnsTuple\cnsTuple\obj\Debug\net7.0\cnsTuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\cnsTuple\cnsTuple\obj\Debug\net7.0\cnsTuple.AssemblyInfoInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\cnsTuple\cnsTuple\obj\Debug\net7.0\cnsTuple.AssemblyInfo.cs
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\cnsTuple\cnsTuple\obj\Debug\net7.0\cnsTuple.csproj.CoreCompileInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\cnsTuple\cnsTuple\obj\Debug\net7.0\cnsTuple.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\cnsTuple\cnsTuple\obj\Debug\net7.0\refint\cnsTuple.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\cnsTuple\cnsTuple\obj\Debug\net7.0\cnsTuple.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\cnsTuple\cnsTuple\obj\Debug\net7.0\cnsTuple.genruntimeconfig.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\cnsTuple\cnsTuple\obj\Debug\net7.0\ref\cnsTuple.dll

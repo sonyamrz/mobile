@@ -1,0 +1,6 @@
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlInTableLoyalPanel\wfaControlInTableLoyalPanel\obj\Debug\net7.0-windows\wfaControlInTableLoyalPanel.Form1.resources
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlInTableLoyalPanel\wfaControlInTableLoyalPanel\obj\Debug\net7.0-windows\wfaControlInTableLoyalPanel.csproj.GenerateResource.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlInTableLoyalPanel\wfaControlInTableLoyalPanel\obj\Debug\net7.0-windows\wfaControlInTableLoyalPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlInTableLoyalPanel\wfaControlInTableLoyalPanel\obj\Debug\net7.0-windows\wfaControlInTableLoyalPanel.AssemblyInfoInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlInTableLoyalPanel\wfaControlInTableLoyalPanel\obj\Debug\net7.0-windows\wfaControlInTableLoyalPanel.AssemblyInfo.cs
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlInTableLoyalPanel\wfaControlInTableLoyalPanel\obj\Debug\net7.0-windows\wfaControlInTableLoyalPanel.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsOOPRectangle\cnsOOPRectangle\bin\Debug\net7.0\cnsOOPRectangle.exe
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsOOPRectangle\cnsOOPRectangle\bin\Debug\net7.0\cnsOOPRectangle.deps.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsOOPRectangle\cnsOOPRectangle\bin\Debug\net7.0\cnsOOPRectangle.runtimeconfig.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsOOPRectangle\cnsOOPRectangle\bin\Debug\net7.0\cnsOOPRectangle.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsOOPRectangle\cnsOOPRectangle\bin\Debug\net7.0\cnsOOPRectangle.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsOOPRectangle\cnsOOPRectangle\obj\Debug\net7.0\cnsOOPRectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsOOPRectangle\cnsOOPRectangle\obj\Debug\net7.0\cnsOOPRectangle.AssemblyInfoInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsOOPRectangle\cnsOOPRectangle\obj\Debug\net7.0\cnsOOPRectangle.AssemblyInfo.cs
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsOOPRectangle\cnsOOPRectangle\obj\Debug\net7.0\cnsOOPRectangle.csproj.CoreCompileInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsOOPRectangle\cnsOOPRectangle\obj\Debug\net7.0\cnsOOPRectangle.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsOOPRectangle\cnsOOPRectangle\obj\Debug\net7.0\refint\cnsOOPRectangle.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsOOPRectangle\cnsOOPRectangle\obj\Debug\net7.0\cnsOOPRectangle.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsOOPRectangle\cnsOOPRectangle\obj\Debug\net7.0\cnsOOPRectangle.genruntimeconfig.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsOOPRectangle\cnsOOPRectangle\obj\Debug\net7.0\ref\cnsOOPRectangle.dll

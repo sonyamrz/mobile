@@ -1,0 +1,33 @@
+D:\2021\Мосполитех\3 курс 1 семестр\wfaTimer\wfaTimer\bin\Debug\net6.0-windows\wfaTimer.exe
+D:\2021\Мосполитех\3 курс 1 семестр\wfaTimer\wfaTimer\bin\Debug\net6.0-windows\wfaTimer.deps.json
+D:\2021\Мосполитех\3 курс 1 семестр\wfaTimer\wfaTimer\bin\Debug\net6.0-windows\wfaTimer.runtimeconfig.json
+D:\2021\Мосполитех\3 курс 1 семестр\wfaTimer\wfaTimer\bin\Debug\net6.0-windows\wfaTimer.dll
+D:\2021\Мосполитех\3 курс 1 семестр\wfaTimer\wfaTimer\bin\Debug\net6.0-windows\wfaTimer.pdb
+D:\2021\Мосполитех\3 курс 1 семестр\wfaTimer\wfaTimer\obj\Debug\net6.0-windows\wfaTimer.csproj.AssemblyReference.cache
+D:\2021\Мосполитех\3 курс 1 семестр\wfaTimer\wfaTimer\obj\Debug\net6.0-windows\wfaTimer.Fm.resources
+D:\2021\Мосполитех\3 курс 1 семестр\wfaTimer\wfaTimer\obj\Debug\net6.0-windows\wfaTimer.csproj.GenerateResource.cache
+D:\2021\Мосполитех\3 курс 1 семестр\wfaTimer\wfaTimer\obj\Debug\net6.0-windows\wfaTimer.GeneratedMSBuildEditorConfig.editorconfig
+D:\2021\Мосполитех\3 курс 1 семестр\wfaTimer\wfaTimer\obj\Debug\net6.0-windows\wfaTimer.AssemblyInfoInputs.cache
+D:\2021\Мосполитех\3 курс 1 семестр\wfaTimer\wfaTimer\obj\Debug\net6.0-windows\wfaTimer.AssemblyInfo.cs
+D:\2021\Мосполитех\3 курс 1 семестр\wfaTimer\wfaTimer\obj\Debug\net6.0-windows\wfaTimer.csproj.CoreCompileInputs.cache
+D:\2021\Мосполитех\3 курс 1 семестр\wfaTimer\wfaTimer\obj\Debug\net6.0-windows\wfaTimer.dll
+D:\2021\Мосполитех\3 курс 1 семестр\wfaTimer\wfaTimer\obj\Debug\net6.0-windows\refint\wfaTimer.dll
+D:\2021\Мосполитех\3 курс 1 семестр\wfaTimer\wfaTimer\obj\Debug\net6.0-windows\wfaTimer.pdb
+D:\2021\Мосполитех\3 курс 1 семестр\wfaTimer\wfaTimer\obj\Debug\net6.0-windows\wfaTimer.genruntimeconfig.cache
+D:\2021\Мосполитех\3 курс 1 семестр\wfaTimer\wfaTimer\obj\Debug\net6.0-windows\ref\wfaTimer.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaTimer\wfaTimer\bin\Debug\net6.0-windows\wfaTimer.exe
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaTimer\wfaTimer\bin\Debug\net6.0-windows\wfaTimer.deps.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaTimer\wfaTimer\bin\Debug\net6.0-windows\wfaTimer.runtimeconfig.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaTimer\wfaTimer\bin\Debug\net6.0-windows\wfaTimer.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaTimer\wfaTimer\bin\Debug\net6.0-windows\wfaTimer.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaTimer\wfaTimer\obj\Debug\net6.0-windows\wfaTimer.Fm.resources
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaTimer\wfaTimer\obj\Debug\net6.0-windows\wfaTimer.csproj.GenerateResource.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaTimer\wfaTimer\obj\Debug\net6.0-windows\wfaTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaTimer\wfaTimer\obj\Debug\net6.0-windows\wfaTimer.AssemblyInfoInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaTimer\wfaTimer\obj\Debug\net6.0-windows\wfaTimer.AssemblyInfo.cs
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaTimer\wfaTimer\obj\Debug\net6.0-windows\wfaTimer.csproj.CoreCompileInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaTimer\wfaTimer\obj\Debug\net6.0-windows\wfaTimer.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaTimer\wfaTimer\obj\Debug\net6.0-windows\refint\wfaTimer.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaTimer\wfaTimer\obj\Debug\net6.0-windows\wfaTimer.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaTimer\wfaTimer\obj\Debug\net6.0-windows\wfaTimer.genruntimeconfig.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaTimer\wfaTimer\obj\Debug\net6.0-windows\ref\wfaTimer.dll

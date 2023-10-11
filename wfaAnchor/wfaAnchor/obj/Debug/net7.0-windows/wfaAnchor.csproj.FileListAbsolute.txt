@@ -1,0 +1,17 @@
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaAnchor\wfaAnchor\bin\Debug\net7.0-windows\wfaAnchor.exe
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaAnchor\wfaAnchor\bin\Debug\net7.0-windows\wfaAnchor.deps.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaAnchor\wfaAnchor\bin\Debug\net7.0-windows\wfaAnchor.runtimeconfig.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaAnchor\wfaAnchor\bin\Debug\net7.0-windows\wfaAnchor.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaAnchor\wfaAnchor\bin\Debug\net7.0-windows\wfaAnchor.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaAnchor\wfaAnchor\obj\Debug\net7.0-windows\wfaAnchor.Form1.resources
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaAnchor\wfaAnchor\obj\Debug\net7.0-windows\wfaAnchor.Properties.Resources.resources
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaAnchor\wfaAnchor\obj\Debug\net7.0-windows\wfaAnchor.csproj.GenerateResource.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaAnchor\wfaAnchor\obj\Debug\net7.0-windows\wfaAnchor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaAnchor\wfaAnchor\obj\Debug\net7.0-windows\wfaAnchor.AssemblyInfoInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaAnchor\wfaAnchor\obj\Debug\net7.0-windows\wfaAnchor.AssemblyInfo.cs
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaAnchor\wfaAnchor\obj\Debug\net7.0-windows\wfaAnchor.csproj.CoreCompileInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaAnchor\wfaAnchor\obj\Debug\net7.0-windows\wfaAnchor.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaAnchor\wfaAnchor\obj\Debug\net7.0-windows\refint\wfaAnchor.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaAnchor\wfaAnchor\obj\Debug\net7.0-windows\wfaAnchor.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaAnchor\wfaAnchor\obj\Debug\net7.0-windows\wfaAnchor.genruntimeconfig.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaAnchor\wfaAnchor\obj\Debug\net7.0-windows\ref\wfaAnchor.dll

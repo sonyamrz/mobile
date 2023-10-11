@@ -1,0 +1,14 @@
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsOOPStudent\cnsOOPStudent\bin\Debug\net7.0\cnsOOPStudent.exe
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsOOPStudent\cnsOOPStudent\bin\Debug\net7.0\cnsOOPStudent.deps.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsOOPStudent\cnsOOPStudent\bin\Debug\net7.0\cnsOOPStudent.runtimeconfig.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsOOPStudent\cnsOOPStudent\bin\Debug\net7.0\cnsOOPStudent.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsOOPStudent\cnsOOPStudent\bin\Debug\net7.0\cnsOOPStudent.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsOOPStudent\cnsOOPStudent\obj\Debug\net7.0\cnsOOPStudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsOOPStudent\cnsOOPStudent\obj\Debug\net7.0\cnsOOPStudent.AssemblyInfoInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsOOPStudent\cnsOOPStudent\obj\Debug\net7.0\cnsOOPStudent.AssemblyInfo.cs
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsOOPStudent\cnsOOPStudent\obj\Debug\net7.0\cnsOOPStudent.csproj.CoreCompileInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsOOPStudent\cnsOOPStudent\obj\Debug\net7.0\cnsOOPStudent.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsOOPStudent\cnsOOPStudent\obj\Debug\net7.0\refint\cnsOOPStudent.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsOOPStudent\cnsOOPStudent\obj\Debug\net7.0\cnsOOPStudent.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsOOPStudent\cnsOOPStudent\obj\Debug\net7.0\cnsOOPStudent.genruntimeconfig.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsOOPStudent\cnsOOPStudent\obj\Debug\net7.0\ref\cnsOOPStudent.dll

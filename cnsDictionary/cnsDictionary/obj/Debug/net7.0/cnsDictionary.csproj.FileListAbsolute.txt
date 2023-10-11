@@ -1,0 +1,14 @@
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsDictionary\cnsDictionary\bin\Debug\net7.0\cnsDictionary.exe
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsDictionary\cnsDictionary\bin\Debug\net7.0\cnsDictionary.deps.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsDictionary\cnsDictionary\bin\Debug\net7.0\cnsDictionary.runtimeconfig.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsDictionary\cnsDictionary\bin\Debug\net7.0\cnsDictionary.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsDictionary\cnsDictionary\bin\Debug\net7.0\cnsDictionary.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsDictionary\cnsDictionary\obj\Debug\net7.0\cnsDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsDictionary\cnsDictionary\obj\Debug\net7.0\cnsDictionary.AssemblyInfoInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsDictionary\cnsDictionary\obj\Debug\net7.0\cnsDictionary.AssemblyInfo.cs
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsDictionary\cnsDictionary\obj\Debug\net7.0\cnsDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsDictionary\cnsDictionary\obj\Debug\net7.0\cnsDictionary.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsDictionary\cnsDictionary\obj\Debug\net7.0\refint\cnsDictionary.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsDictionary\cnsDictionary\obj\Debug\net7.0\cnsDictionary.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsDictionary\cnsDictionary\obj\Debug\net7.0\cnsDictionary.genruntimeconfig.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsDictionary\cnsDictionary\obj\Debug\net7.0\ref\cnsDictionary.dll

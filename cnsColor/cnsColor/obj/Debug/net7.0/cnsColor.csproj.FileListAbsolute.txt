@@ -1,0 +1,14 @@
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsColor\cnsColor\bin\Debug\net7.0\cnsColor.exe
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsColor\cnsColor\bin\Debug\net7.0\cnsColor.deps.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsColor\cnsColor\bin\Debug\net7.0\cnsColor.runtimeconfig.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsColor\cnsColor\bin\Debug\net7.0\cnsColor.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsColor\cnsColor\bin\Debug\net7.0\cnsColor.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsColor\cnsColor\obj\Debug\net7.0\cnsColor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsColor\cnsColor\obj\Debug\net7.0\cnsColor.AssemblyInfoInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsColor\cnsColor\obj\Debug\net7.0\cnsColor.AssemblyInfo.cs
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsColor\cnsColor\obj\Debug\net7.0\cnsColor.csproj.CoreCompileInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsColor\cnsColor\obj\Debug\net7.0\cnsColor.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsColor\cnsColor\obj\Debug\net7.0\refint\cnsColor.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsColor\cnsColor\obj\Debug\net7.0\cnsColor.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsColor\cnsColor\obj\Debug\net7.0\cnsColor.genruntimeconfig.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsColor\cnsColor\obj\Debug\net7.0\ref\cnsColor.dll

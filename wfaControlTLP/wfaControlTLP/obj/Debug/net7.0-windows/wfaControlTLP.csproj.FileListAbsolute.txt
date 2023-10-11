@@ -1,0 +1,34 @@
+C:\Users\Danil\source\repos\mp2023_211-325_vs\wfaControlTLP\wfaControlTLP\bin\Debug\net7.0-windows\wfaControlTLP.exe
+C:\Users\Danil\source\repos\mp2023_211-325_vs\wfaControlTLP\wfaControlTLP\bin\Debug\net7.0-windows\wfaControlTLP.deps.json
+C:\Users\Danil\source\repos\mp2023_211-325_vs\wfaControlTLP\wfaControlTLP\bin\Debug\net7.0-windows\wfaControlTLP.runtimeconfig.json
+C:\Users\Danil\source\repos\mp2023_211-325_vs\wfaControlTLP\wfaControlTLP\bin\Debug\net7.0-windows\wfaControlTLP.dll
+C:\Users\Danil\source\repos\mp2023_211-325_vs\wfaControlTLP\wfaControlTLP\bin\Debug\net7.0-windows\wfaControlTLP.pdb
+C:\Users\Danil\source\repos\mp2023_211-325_vs\wfaControlTLP\wfaControlTLP\obj\Debug\net7.0-windows\wfaControlTLP.Form1.resources
+C:\Users\Danil\source\repos\mp2023_211-325_vs\wfaControlTLP\wfaControlTLP\obj\Debug\net7.0-windows\wfaControlTLP.csproj.GenerateResource.cache
+C:\Users\Danil\source\repos\mp2023_211-325_vs\wfaControlTLP\wfaControlTLP\obj\Debug\net7.0-windows\wfaControlTLP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\source\repos\mp2023_211-325_vs\wfaControlTLP\wfaControlTLP\obj\Debug\net7.0-windows\wfaControlTLP.AssemblyInfoInputs.cache
+C:\Users\Danil\source\repos\mp2023_211-325_vs\wfaControlTLP\wfaControlTLP\obj\Debug\net7.0-windows\wfaControlTLP.AssemblyInfo.cs
+C:\Users\Danil\source\repos\mp2023_211-325_vs\wfaControlTLP\wfaControlTLP\obj\Debug\net7.0-windows\wfaControlTLP.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\mp2023_211-325_vs\wfaControlTLP\wfaControlTLP\obj\Debug\net7.0-windows\wfaControlTLP.dll
+C:\Users\Danil\source\repos\mp2023_211-325_vs\wfaControlTLP\wfaControlTLP\obj\Debug\net7.0-windows\refint\wfaControlTLP.dll
+C:\Users\Danil\source\repos\mp2023_211-325_vs\wfaControlTLP\wfaControlTLP\obj\Debug\net7.0-windows\wfaControlTLP.pdb
+C:\Users\Danil\source\repos\mp2023_211-325_vs\wfaControlTLP\wfaControlTLP\obj\Debug\net7.0-windows\wfaControlTLP.genruntimeconfig.cache
+C:\Users\Danil\source\repos\mp2023_211-325_vs\wfaControlTLP\wfaControlTLP\obj\Debug\net7.0-windows\ref\wfaControlTLP.dll
+C:\Users\Danil\source\repos\mp2023_211-325_vs\wfaControlTLP\wfaControlTLP\obj\Debug\net7.0-windows\wfaControlTLP.Properties.Resources.resources
+C:\Users\Софья Морозова\Desktop\wfaControlTLP\wfaControlTLP\bin\Debug\net7.0-windows\wfaControlTLP.exe
+C:\Users\Софья Морозова\Desktop\wfaControlTLP\wfaControlTLP\bin\Debug\net7.0-windows\wfaControlTLP.deps.json
+C:\Users\Софья Морозова\Desktop\wfaControlTLP\wfaControlTLP\bin\Debug\net7.0-windows\wfaControlTLP.runtimeconfig.json
+C:\Users\Софья Морозова\Desktop\wfaControlTLP\wfaControlTLP\bin\Debug\net7.0-windows\wfaControlTLP.dll
+C:\Users\Софья Морозова\Desktop\wfaControlTLP\wfaControlTLP\bin\Debug\net7.0-windows\wfaControlTLP.pdb
+C:\Users\Софья Морозова\Desktop\wfaControlTLP\wfaControlTLP\obj\Debug\net7.0-windows\wfaControlTLP.Form1.resources
+C:\Users\Софья Морозова\Desktop\wfaControlTLP\wfaControlTLP\obj\Debug\net7.0-windows\wfaControlTLP.Properties.Resources.resources
+C:\Users\Софья Морозова\Desktop\wfaControlTLP\wfaControlTLP\obj\Debug\net7.0-windows\wfaControlTLP.csproj.GenerateResource.cache
+C:\Users\Софья Морозова\Desktop\wfaControlTLP\wfaControlTLP\obj\Debug\net7.0-windows\wfaControlTLP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Морозова\Desktop\wfaControlTLP\wfaControlTLP\obj\Debug\net7.0-windows\wfaControlTLP.AssemblyInfoInputs.cache
+C:\Users\Софья Морозова\Desktop\wfaControlTLP\wfaControlTLP\obj\Debug\net7.0-windows\wfaControlTLP.AssemblyInfo.cs
+C:\Users\Софья Морозова\Desktop\wfaControlTLP\wfaControlTLP\obj\Debug\net7.0-windows\wfaControlTLP.csproj.CoreCompileInputs.cache
+C:\Users\Софья Морозова\Desktop\wfaControlTLP\wfaControlTLP\obj\Debug\net7.0-windows\wfaControlTLP.dll
+C:\Users\Софья Морозова\Desktop\wfaControlTLP\wfaControlTLP\obj\Debug\net7.0-windows\refint\wfaControlTLP.dll
+C:\Users\Софья Морозова\Desktop\wfaControlTLP\wfaControlTLP\obj\Debug\net7.0-windows\wfaControlTLP.pdb
+C:\Users\Софья Морозова\Desktop\wfaControlTLP\wfaControlTLP\obj\Debug\net7.0-windows\wfaControlTLP.genruntimeconfig.cache
+C:\Users\Софья Морозова\Desktop\wfaControlTLP\wfaControlTLP\obj\Debug\net7.0-windows\ref\wfaControlTLP.dll

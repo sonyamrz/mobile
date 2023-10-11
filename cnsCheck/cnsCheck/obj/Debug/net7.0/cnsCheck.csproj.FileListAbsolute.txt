@@ -1,0 +1,14 @@
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\cnsCheck\cnsCheck\bin\Debug\net7.0\cnsCheck.exe
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\cnsCheck\cnsCheck\bin\Debug\net7.0\cnsCheck.deps.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\cnsCheck\cnsCheck\bin\Debug\net7.0\cnsCheck.runtimeconfig.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\cnsCheck\cnsCheck\bin\Debug\net7.0\cnsCheck.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\cnsCheck\cnsCheck\bin\Debug\net7.0\cnsCheck.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\cnsCheck\cnsCheck\obj\Debug\net7.0\cnsCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\cnsCheck\cnsCheck\obj\Debug\net7.0\cnsCheck.AssemblyInfoInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\cnsCheck\cnsCheck\obj\Debug\net7.0\cnsCheck.AssemblyInfo.cs
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\cnsCheck\cnsCheck\obj\Debug\net7.0\cnsCheck.csproj.CoreCompileInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\cnsCheck\cnsCheck\obj\Debug\net7.0\cnsCheck.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\cnsCheck\cnsCheck\obj\Debug\net7.0\refint\cnsCheck.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\cnsCheck\cnsCheck\obj\Debug\net7.0\cnsCheck.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\cnsCheck\cnsCheck\obj\Debug\net7.0\cnsCheck.genruntimeconfig.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\cnsCheck\cnsCheck\obj\Debug\net7.0\ref\cnsCheck.dll

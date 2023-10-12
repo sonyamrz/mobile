@@ -1,0 +1,14 @@
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsQueue\cnsQueue\bin\Debug\net7.0\cnsQueue.exe
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsQueue\cnsQueue\bin\Debug\net7.0\cnsQueue.deps.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsQueue\cnsQueue\bin\Debug\net7.0\cnsQueue.runtimeconfig.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsQueue\cnsQueue\bin\Debug\net7.0\cnsQueue.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsQueue\cnsQueue\bin\Debug\net7.0\cnsQueue.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsQueue\cnsQueue\obj\Debug\net7.0\cnsQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsQueue\cnsQueue\obj\Debug\net7.0\cnsQueue.AssemblyInfoInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsQueue\cnsQueue\obj\Debug\net7.0\cnsQueue.AssemblyInfo.cs
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsQueue\cnsQueue\obj\Debug\net7.0\cnsQueue.csproj.CoreCompileInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsQueue\cnsQueue\obj\Debug\net7.0\cnsQueue.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsQueue\cnsQueue\obj\Debug\net7.0\refint\cnsQueue.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsQueue\cnsQueue\obj\Debug\net7.0\cnsQueue.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsQueue\cnsQueue\obj\Debug\net7.0\cnsQueue.genruntimeconfig.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsQueue\cnsQueue\obj\Debug\net7.0\ref\cnsQueue.dll

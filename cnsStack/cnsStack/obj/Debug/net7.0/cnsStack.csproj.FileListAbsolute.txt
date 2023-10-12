@@ -1,0 +1,14 @@
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsStack\cnsStack\bin\Debug\net7.0\cnsStack.exe
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsStack\cnsStack\bin\Debug\net7.0\cnsStack.deps.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsStack\cnsStack\bin\Debug\net7.0\cnsStack.runtimeconfig.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsStack\cnsStack\bin\Debug\net7.0\cnsStack.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsStack\cnsStack\bin\Debug\net7.0\cnsStack.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsStack\cnsStack\obj\Debug\net7.0\cnsStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsStack\cnsStack\obj\Debug\net7.0\cnsStack.AssemblyInfoInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsStack\cnsStack\obj\Debug\net7.0\cnsStack.AssemblyInfo.cs
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsStack\cnsStack\obj\Debug\net7.0\cnsStack.csproj.CoreCompileInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsStack\cnsStack\obj\Debug\net7.0\cnsStack.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsStack\cnsStack\obj\Debug\net7.0\refint\cnsStack.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsStack\cnsStack\obj\Debug\net7.0\cnsStack.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsStack\cnsStack\obj\Debug\net7.0\cnsStack.genruntimeconfig.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsStack\cnsStack\obj\Debug\net7.0\ref\cnsStack.dll

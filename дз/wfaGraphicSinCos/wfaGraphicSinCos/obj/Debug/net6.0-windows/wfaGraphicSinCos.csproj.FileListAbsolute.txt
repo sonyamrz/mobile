@@ -1,0 +1,83 @@
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos\wfaGraphicSinCos\bin\Debug\net6.0-windows\wfaGraphicSinCos.exe
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos\wfaGraphicSinCos\bin\Debug\net6.0-windows\wfaGraphicSinCos.deps.json
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos\wfaGraphicSinCos\bin\Debug\net6.0-windows\wfaGraphicSinCos.runtimeconfig.json
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos\wfaGraphicSinCos\bin\Debug\net6.0-windows\wfaGraphicSinCos.dll
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos\wfaGraphicSinCos\bin\Debug\net6.0-windows\wfaGraphicSinCos.pdb
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.csproj.AssemblyReference.cache
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.Fm.resources
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.csproj.GenerateResource.cache
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.GeneratedMSBuildEditorConfig.editorconfig
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.AssemblyInfoInputs.cache
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.AssemblyInfo.cs
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.csproj.CoreCompileInputs.cache
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.dll
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\refint\wfaGraphicSinCos.dll
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.pdb
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.genruntimeconfig.cache
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\ref\wfaGraphicSinCos.dll
+D:\загрузки\wfaGraphicSinCos\wfaGraphicSinCos\wfaGraphicSinCos\bin\Debug\net6.0-windows\wfaGraphicSinCos.exe
+D:\загрузки\wfaGraphicSinCos\wfaGraphicSinCos\wfaGraphicSinCos\bin\Debug\net6.0-windows\wfaGraphicSinCos.deps.json
+D:\загрузки\wfaGraphicSinCos\wfaGraphicSinCos\wfaGraphicSinCos\bin\Debug\net6.0-windows\wfaGraphicSinCos.runtimeconfig.json
+D:\загрузки\wfaGraphicSinCos\wfaGraphicSinCos\wfaGraphicSinCos\bin\Debug\net6.0-windows\wfaGraphicSinCos.dll
+D:\загрузки\wfaGraphicSinCos\wfaGraphicSinCos\wfaGraphicSinCos\bin\Debug\net6.0-windows\wfaGraphicSinCos.pdb
+D:\загрузки\wfaGraphicSinCos\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.csproj.AssemblyReference.cache
+D:\загрузки\wfaGraphicSinCos\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.Fm.resources
+D:\загрузки\wfaGraphicSinCos\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.csproj.GenerateResource.cache
+D:\загрузки\wfaGraphicSinCos\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.GeneratedMSBuildEditorConfig.editorconfig
+D:\загрузки\wfaGraphicSinCos\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.AssemblyInfoInputs.cache
+D:\загрузки\wfaGraphicSinCos\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.AssemblyInfo.cs
+D:\загрузки\wfaGraphicSinCos\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.csproj.CoreCompileInputs.cache
+D:\загрузки\wfaGraphicSinCos\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.dll
+D:\загрузки\wfaGraphicSinCos\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\refint\wfaGraphicSinCos.dll
+D:\загрузки\wfaGraphicSinCos\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.pdb
+D:\загрузки\wfaGraphicSinCos\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.genruntimeconfig.cache
+D:\загрузки\wfaGraphicSinCos\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\ref\wfaGraphicSinCos.dll
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\bin\Debug\net6.0-windows\wfaGraphicSinCos.exe
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\bin\Debug\net6.0-windows\wfaGraphicSinCos.deps.json
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\bin\Debug\net6.0-windows\wfaGraphicSinCos.runtimeconfig.json
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\bin\Debug\net6.0-windows\wfaGraphicSinCos.dll
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\bin\Debug\net6.0-windows\wfaGraphicSinCos.pdb
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.csproj.AssemblyReference.cache
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.Fm.resources
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.csproj.GenerateResource.cache
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.GeneratedMSBuildEditorConfig.editorconfig
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.AssemblyInfoInputs.cache
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.AssemblyInfo.cs
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.csproj.CoreCompileInputs.cache
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.dll
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\obj\Debug\net6.0-windows\refint\wfaGraphicSinCos.dll
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.pdb
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.genruntimeconfig.cache
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\obj\Debug\net6.0-windows\ref\wfaGraphicSinCos.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\bin\Debug\net6.0-windows\wfaGraphicSinCos.exe
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\bin\Debug\net6.0-windows\wfaGraphicSinCos.deps.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\bin\Debug\net6.0-windows\wfaGraphicSinCos.runtimeconfig.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\bin\Debug\net6.0-windows\wfaGraphicSinCos.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\bin\Debug\net6.0-windows\wfaGraphicSinCos.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.Fm.resources
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.csproj.GenerateResource.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.AssemblyInfoInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.AssemblyInfo.cs
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.csproj.CoreCompileInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\obj\Debug\net6.0-windows\refint\wfaGraphicSinCos.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.genruntimeconfig.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGraphicSinCos1\wfaGraphicSinCos\obj\Debug\net6.0-windows\ref\wfaGraphicSinCos.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGraphicSinCos\wfaGraphicSinCos\bin\Debug\net6.0-windows\wfaGraphicSinCos.exe
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGraphicSinCos\wfaGraphicSinCos\bin\Debug\net6.0-windows\wfaGraphicSinCos.deps.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGraphicSinCos\wfaGraphicSinCos\bin\Debug\net6.0-windows\wfaGraphicSinCos.runtimeconfig.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGraphicSinCos\wfaGraphicSinCos\bin\Debug\net6.0-windows\wfaGraphicSinCos.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGraphicSinCos\wfaGraphicSinCos\bin\Debug\net6.0-windows\wfaGraphicSinCos.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.Fm.resources
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.csproj.GenerateResource.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.AssemblyInfoInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.AssemblyInfo.cs
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.csproj.CoreCompileInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\refint\wfaGraphicSinCos.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\wfaGraphicSinCos.genruntimeconfig.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net6.0-windows\ref\wfaGraphicSinCos.dll

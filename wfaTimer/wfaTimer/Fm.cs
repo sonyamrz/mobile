@@ -43,6 +43,8 @@ namespace wfaTimer
                 endTimerDown = DateTime.Now + (endTimerDown - pauseTimerDown);
                 tmDown.Start();
             }
+            
+            
         }
 
         private void BuDown_Click(object? sender, EventArgs e)
@@ -81,7 +83,7 @@ namespace wfaTimer
 
         private void BuUp_Click(object? sender, EventArgs e)
         {
-            tmUp.Enabled = ! tmUp.Enabled;
+            tmUp.Enabled = !tmUp.Enabled;
             startTimerUp = DateTime.Now;
         }
 
@@ -103,7 +105,3 @@ namespace wfaTimer
         }
     }
 }
-
-//избавиться от ошибок старт-пауза
-//добавить поля с отображением % выполнения двух таймеров
-//на втором таймере чтобы сразу 10 секунд отображалось

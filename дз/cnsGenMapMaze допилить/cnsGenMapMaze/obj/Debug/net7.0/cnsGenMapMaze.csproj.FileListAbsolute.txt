@@ -1,0 +1,42 @@
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsGenMapMaze\cnsGenMapMaze\bin\Debug\net7.0\cnsGenMapMaze.exe
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsGenMapMaze\cnsGenMapMaze\bin\Debug\net7.0\cnsGenMapMaze.deps.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsGenMapMaze\cnsGenMapMaze\bin\Debug\net7.0\cnsGenMapMaze.runtimeconfig.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsGenMapMaze\cnsGenMapMaze\bin\Debug\net7.0\cnsGenMapMaze.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsGenMapMaze\cnsGenMapMaze\bin\Debug\net7.0\cnsGenMapMaze.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsGenMapMaze\cnsGenMapMaze\obj\Debug\net7.0\cnsGenMapMaze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsGenMapMaze\cnsGenMapMaze\obj\Debug\net7.0\cnsGenMapMaze.AssemblyInfoInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsGenMapMaze\cnsGenMapMaze\obj\Debug\net7.0\cnsGenMapMaze.AssemblyInfo.cs
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsGenMapMaze\cnsGenMapMaze\obj\Debug\net7.0\cnsGenMapMaze.csproj.CoreCompileInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsGenMapMaze\cnsGenMapMaze\obj\Debug\net7.0\cnsGenMapMaze.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsGenMapMaze\cnsGenMapMaze\obj\Debug\net7.0\refint\cnsGenMapMaze.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsGenMapMaze\cnsGenMapMaze\obj\Debug\net7.0\cnsGenMapMaze.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsGenMapMaze\cnsGenMapMaze\obj\Debug\net7.0\cnsGenMapMaze.genruntimeconfig.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsGenMapMaze\cnsGenMapMaze\obj\Debug\net7.0\ref\cnsGenMapMaze.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\cnsGenMapMaze\cnsGenMapMaze\bin\Debug\net7.0\cnsGenMapMaze.exe
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\cnsGenMapMaze\cnsGenMapMaze\bin\Debug\net7.0\cnsGenMapMaze.deps.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\cnsGenMapMaze\cnsGenMapMaze\bin\Debug\net7.0\cnsGenMapMaze.runtimeconfig.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\cnsGenMapMaze\cnsGenMapMaze\bin\Debug\net7.0\cnsGenMapMaze.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\cnsGenMapMaze\cnsGenMapMaze\bin\Debug\net7.0\cnsGenMapMaze.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\cnsGenMapMaze\cnsGenMapMaze\obj\Debug\net7.0\cnsGenMapMaze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\cnsGenMapMaze\cnsGenMapMaze\obj\Debug\net7.0\cnsGenMapMaze.AssemblyInfoInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\cnsGenMapMaze\cnsGenMapMaze\obj\Debug\net7.0\cnsGenMapMaze.AssemblyInfo.cs
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\cnsGenMapMaze\cnsGenMapMaze\obj\Debug\net7.0\cnsGenMapMaze.csproj.CoreCompileInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\cnsGenMapMaze\cnsGenMapMaze\obj\Debug\net7.0\cnsGenMapMaze.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\cnsGenMapMaze\cnsGenMapMaze\obj\Debug\net7.0\refint\cnsGenMapMaze.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\cnsGenMapMaze\cnsGenMapMaze\obj\Debug\net7.0\cnsGenMapMaze.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\cnsGenMapMaze\cnsGenMapMaze\obj\Debug\net7.0\cnsGenMapMaze.genruntimeconfig.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\cnsGenMapMaze\cnsGenMapMaze\obj\Debug\net7.0\ref\cnsGenMapMaze.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\cnsGenMapMaze допилить\cnsGenMapMaze\bin\Debug\net7.0\cnsGenMapMaze.exe
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\cnsGenMapMaze допилить\cnsGenMapMaze\bin\Debug\net7.0\cnsGenMapMaze.deps.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\cnsGenMapMaze допилить\cnsGenMapMaze\bin\Debug\net7.0\cnsGenMapMaze.runtimeconfig.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\cnsGenMapMaze допилить\cnsGenMapMaze\bin\Debug\net7.0\cnsGenMapMaze.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\cnsGenMapMaze допилить\cnsGenMapMaze\bin\Debug\net7.0\cnsGenMapMaze.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\cnsGenMapMaze допилить\cnsGenMapMaze\obj\Debug\net7.0\cnsGenMapMaze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\cnsGenMapMaze допилить\cnsGenMapMaze\obj\Debug\net7.0\cnsGenMapMaze.AssemblyInfoInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\cnsGenMapMaze допилить\cnsGenMapMaze\obj\Debug\net7.0\cnsGenMapMaze.AssemblyInfo.cs
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\cnsGenMapMaze допилить\cnsGenMapMaze\obj\Debug\net7.0\cnsGenMapMaze.csproj.CoreCompileInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\cnsGenMapMaze допилить\cnsGenMapMaze\obj\Debug\net7.0\cnsGenMapMaze.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\cnsGenMapMaze допилить\cnsGenMapMaze\obj\Debug\net7.0\refint\cnsGenMapMaze.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\cnsGenMapMaze допилить\cnsGenMapMaze\obj\Debug\net7.0\cnsGenMapMaze.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\cnsGenMapMaze допилить\cnsGenMapMaze\obj\Debug\net7.0\cnsGenMapMaze.genruntimeconfig.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\cnsGenMapMaze допилить\cnsGenMapMaze\obj\Debug\net7.0\ref\cnsGenMapMaze.dll

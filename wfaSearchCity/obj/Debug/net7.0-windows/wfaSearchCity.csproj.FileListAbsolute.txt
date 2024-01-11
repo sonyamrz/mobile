@@ -1,0 +1,17 @@
+C:\Users\Айхан\source\repos\wfaSearchCity\bin\Debug\net7.0-windows\wfaSearchCity.exe
+C:\Users\Айхан\source\repos\wfaSearchCity\bin\Debug\net7.0-windows\wfaSearchCity.deps.json
+C:\Users\Айхан\source\repos\wfaSearchCity\bin\Debug\net7.0-windows\wfaSearchCity.runtimeconfig.json
+C:\Users\Айхан\source\repos\wfaSearchCity\bin\Debug\net7.0-windows\wfaSearchCity.dll
+C:\Users\Айхан\source\repos\wfaSearchCity\bin\Debug\net7.0-windows\wfaSearchCity.pdb
+C:\Users\Айхан\source\repos\wfaSearchCity\obj\Debug\net7.0-windows\wfaSearchCity.Form1.resources
+C:\Users\Айхан\source\repos\wfaSearchCity\obj\Debug\net7.0-windows\wfaSearchCity.csproj.GenerateResource.cache
+C:\Users\Айхан\source\repos\wfaSearchCity\obj\Debug\net7.0-windows\wfaSearchCity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Айхан\source\repos\wfaSearchCity\obj\Debug\net7.0-windows\wfaSearchCity.AssemblyInfoInputs.cache
+C:\Users\Айхан\source\repos\wfaSearchCity\obj\Debug\net7.0-windows\wfaSearchCity.AssemblyInfo.cs
+C:\Users\Айхан\source\repos\wfaSearchCity\obj\Debug\net7.0-windows\wfaSearchCity.csproj.CoreCompileInputs.cache
+C:\Users\Айхан\source\repos\wfaSearchCity\obj\Debug\net7.0-windows\wfaSearchCity.dll
+C:\Users\Айхан\source\repos\wfaSearchCity\obj\Debug\net7.0-windows\refint\wfaSearchCity.dll
+C:\Users\Айхан\source\repos\wfaSearchCity\obj\Debug\net7.0-windows\wfaSearchCity.pdb
+C:\Users\Айхан\source\repos\wfaSearchCity\obj\Debug\net7.0-windows\wfaSearchCity.genruntimeconfig.cache
+C:\Users\Айхан\source\repos\wfaSearchCity\obj\Debug\net7.0-windows\ref\wfaSearchCity.dll
+C:\Users\Айхан\source\repos\wfaSearchCity\obj\Debug\net7.0-windows\wfaSearchCity.Properties.Resources.resources

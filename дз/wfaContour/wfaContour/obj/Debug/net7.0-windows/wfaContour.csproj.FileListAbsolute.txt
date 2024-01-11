@@ -1,0 +1,16 @@
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaContour\wfaContour\bin\Debug\net7.0-windows\wfaContour.exe
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaContour\wfaContour\bin\Debug\net7.0-windows\wfaContour.deps.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaContour\wfaContour\bin\Debug\net7.0-windows\wfaContour.runtimeconfig.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaContour\wfaContour\bin\Debug\net7.0-windows\wfaContour.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaContour\wfaContour\bin\Debug\net7.0-windows\wfaContour.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaContour\wfaContour\obj\Debug\net7.0-windows\wfaContour.Form1.resources
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaContour\wfaContour\obj\Debug\net7.0-windows\wfaContour.csproj.GenerateResource.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaContour\wfaContour\obj\Debug\net7.0-windows\wfaContour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaContour\wfaContour\obj\Debug\net7.0-windows\wfaContour.AssemblyInfoInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaContour\wfaContour\obj\Debug\net7.0-windows\wfaContour.AssemblyInfo.cs
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaContour\wfaContour\obj\Debug\net7.0-windows\wfaContour.csproj.CoreCompileInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaContour\wfaContour\obj\Debug\net7.0-windows\wfaContour.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaContour\wfaContour\obj\Debug\net7.0-windows\refint\wfaContour.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaContour\wfaContour\obj\Debug\net7.0-windows\wfaContour.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaContour\wfaContour\obj\Debug\net7.0-windows\wfaContour.genruntimeconfig.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaContour\wfaContour\obj\Debug\net7.0-windows\ref\wfaContour.dll

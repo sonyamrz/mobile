@@ -1,0 +1,43 @@
+D:\2021\Мосполитех\3 курс 1 семестр\cnsLINQ\cnsLINQ\bin\Debug\net6.0\cnsLINQ.exe
+D:\2021\Мосполитех\3 курс 1 семестр\cnsLINQ\cnsLINQ\bin\Debug\net6.0\cnsLINQ.deps.json
+D:\2021\Мосполитех\3 курс 1 семестр\cnsLINQ\cnsLINQ\bin\Debug\net6.0\cnsLINQ.runtimeconfig.json
+D:\2021\Мосполитех\3 курс 1 семестр\cnsLINQ\cnsLINQ\bin\Debug\net6.0\cnsLINQ.dll
+D:\2021\Мосполитех\3 курс 1 семестр\cnsLINQ\cnsLINQ\bin\Debug\net6.0\cnsLINQ.pdb
+D:\2021\Мосполитех\3 курс 1 семестр\cnsLINQ\cnsLINQ\obj\Debug\net6.0\cnsLINQ.csproj.AssemblyReference.cache
+D:\2021\Мосполитех\3 курс 1 семестр\cnsLINQ\cnsLINQ\obj\Debug\net6.0\cnsLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\2021\Мосполитех\3 курс 1 семестр\cnsLINQ\cnsLINQ\obj\Debug\net6.0\cnsLINQ.AssemblyInfoInputs.cache
+D:\2021\Мосполитех\3 курс 1 семестр\cnsLINQ\cnsLINQ\obj\Debug\net6.0\cnsLINQ.AssemblyInfo.cs
+D:\2021\Мосполитех\3 курс 1 семестр\cnsLINQ\cnsLINQ\obj\Debug\net6.0\cnsLINQ.csproj.CoreCompileInputs.cache
+D:\2021\Мосполитех\3 курс 1 семестр\cnsLINQ\cnsLINQ\obj\Debug\net6.0\cnsLINQ.dll
+D:\2021\Мосполитех\3 курс 1 семестр\cnsLINQ\cnsLINQ\obj\Debug\net6.0\refint\cnsLINQ.dll
+D:\2021\Мосполитех\3 курс 1 семестр\cnsLINQ\cnsLINQ\obj\Debug\net6.0\cnsLINQ.pdb
+D:\2021\Мосполитех\3 курс 1 семестр\cnsLINQ\cnsLINQ\obj\Debug\net6.0\cnsLINQ.genruntimeconfig.cache
+D:\2021\Мосполитех\3 курс 1 семестр\cnsLINQ\cnsLINQ\obj\Debug\net6.0\ref\cnsLINQ.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\cnsLINQ\cnsLINQ\bin\Debug\net6.0\cnsLINQ.exe
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\cnsLINQ\cnsLINQ\bin\Debug\net6.0\cnsLINQ.deps.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\cnsLINQ\cnsLINQ\bin\Debug\net6.0\cnsLINQ.runtimeconfig.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\cnsLINQ\cnsLINQ\bin\Debug\net6.0\cnsLINQ.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\cnsLINQ\cnsLINQ\bin\Debug\net6.0\cnsLINQ.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\cnsLINQ\cnsLINQ\obj\Debug\net6.0\cnsLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\cnsLINQ\cnsLINQ\obj\Debug\net6.0\cnsLINQ.AssemblyInfoInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\cnsLINQ\cnsLINQ\obj\Debug\net6.0\cnsLINQ.AssemblyInfo.cs
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\cnsLINQ\cnsLINQ\obj\Debug\net6.0\cnsLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\cnsLINQ\cnsLINQ\obj\Debug\net6.0\cnsLINQ.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\cnsLINQ\cnsLINQ\obj\Debug\net6.0\refint\cnsLINQ.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\cnsLINQ\cnsLINQ\obj\Debug\net6.0\cnsLINQ.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\cnsLINQ\cnsLINQ\obj\Debug\net6.0\cnsLINQ.genruntimeconfig.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\cnsLINQ\cnsLINQ\obj\Debug\net6.0\ref\cnsLINQ.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsLINQ\cnsLINQ\bin\Debug\net6.0\cnsLINQ.exe
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsLINQ\cnsLINQ\bin\Debug\net6.0\cnsLINQ.deps.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsLINQ\cnsLINQ\bin\Debug\net6.0\cnsLINQ.runtimeconfig.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsLINQ\cnsLINQ\bin\Debug\net6.0\cnsLINQ.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsLINQ\cnsLINQ\bin\Debug\net6.0\cnsLINQ.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsLINQ\cnsLINQ\obj\Debug\net6.0\cnsLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsLINQ\cnsLINQ\obj\Debug\net6.0\cnsLINQ.AssemblyInfoInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsLINQ\cnsLINQ\obj\Debug\net6.0\cnsLINQ.AssemblyInfo.cs
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsLINQ\cnsLINQ\obj\Debug\net6.0\cnsLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsLINQ\cnsLINQ\obj\Debug\net6.0\cnsLINQ.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsLINQ\cnsLINQ\obj\Debug\net6.0\refint\cnsLINQ.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsLINQ\cnsLINQ\obj\Debug\net6.0\cnsLINQ.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsLINQ\cnsLINQ\obj\Debug\net6.0\cnsLINQ.genruntimeconfig.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\cnsLINQ\cnsLINQ\obj\Debug\net6.0\ref\cnsLINQ.dll

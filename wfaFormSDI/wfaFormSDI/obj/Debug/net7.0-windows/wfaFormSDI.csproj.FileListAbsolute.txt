@@ -1,0 +1,17 @@
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaFormSDI\wfaFormSDI\obj\Debug\net7.0-windows\wfaFormSDI.FmAbout.resources
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaFormSDI\wfaFormSDI\obj\Debug\net7.0-windows\wfaFormSDI.FmMain.resources
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaFormSDI\wfaFormSDI\obj\Debug\net7.0-windows\wfaFormSDI.csproj.GenerateResource.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaFormSDI\wfaFormSDI\obj\Debug\net7.0-windows\wfaFormSDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaFormSDI\wfaFormSDI\obj\Debug\net7.0-windows\wfaFormSDI.AssemblyInfoInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaFormSDI\wfaFormSDI\obj\Debug\net7.0-windows\wfaFormSDI.AssemblyInfo.cs
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaFormSDI\wfaFormSDI\obj\Debug\net7.0-windows\wfaFormSDI.csproj.CoreCompileInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaFormSDI\wfaFormSDI\bin\Debug\net7.0-windows\wfaFormSDI.exe
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaFormSDI\wfaFormSDI\bin\Debug\net7.0-windows\wfaFormSDI.deps.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaFormSDI\wfaFormSDI\bin\Debug\net7.0-windows\wfaFormSDI.runtimeconfig.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaFormSDI\wfaFormSDI\bin\Debug\net7.0-windows\wfaFormSDI.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaFormSDI\wfaFormSDI\bin\Debug\net7.0-windows\wfaFormSDI.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaFormSDI\wfaFormSDI\obj\Debug\net7.0-windows\wfaFormSDI.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaFormSDI\wfaFormSDI\obj\Debug\net7.0-windows\refint\wfaFormSDI.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaFormSDI\wfaFormSDI\obj\Debug\net7.0-windows\wfaFormSDI.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaFormSDI\wfaFormSDI\obj\Debug\net7.0-windows\wfaFormSDI.genruntimeconfig.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaFormSDI\wfaFormSDI\obj\Debug\net7.0-windows\ref\wfaFormSDI.dll

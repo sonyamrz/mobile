@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wfaFormTransparency", "wfaFormTransparency\wfaFormTransparency.csproj", "{3BEE0944-B298-421C-A149-1C04468A92D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BEE0944-B298-421C-A149-1C04468A92D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BEE0944-B298-421C-A149-1C04468A92D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BEE0944-B298-421C-A149-1C04468A92D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BEE0944-B298-421C-A149-1C04468A92D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E5F5FDD-14FA-4CEE-BC11-2E801F542AF3}
+	EndGlobalSection
+EndGlobal

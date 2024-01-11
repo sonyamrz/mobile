@@ -1,0 +1,117 @@
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\bin\x86\Debug\x86\concrt140.dll
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\bin\x86\Debug\x86\cvextern.dll
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\bin\x86\Debug\x86\msvcp140.dll
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\bin\x86\Debug\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\bin\x86\Debug\x86\vcruntime140.dll
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\bin\x86\Debug\wfaContour.exe.config
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\bin\x86\Debug\wfaContour.exe
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\bin\x86\Debug\wfaContour.pdb
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\bin\x86\Debug\Emgu.CV.UI.dll
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\bin\x86\Debug\Emgu.CV.World.dll
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\bin\x86\Debug\ZedGraph.dll
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\bin\x86\Debug\Emgu.CV.UI.xml
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\bin\x86\Debug\Emgu.CV.World.xml
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\bin\x86\Debug\ZedGraph.xml
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\bin\x86\Debug\de\ZedGraph.resources.dll
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\bin\x86\Debug\es\ZedGraph.resources.dll
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\bin\x86\Debug\fr\ZedGraph.resources.dll
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\bin\x86\Debug\hu\ZedGraph.resources.dll
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\bin\x86\Debug\it\ZedGraph.resources.dll
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\bin\x86\Debug\ja\ZedGraph.resources.dll
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\bin\x86\Debug\pt\ZedGraph.resources.dll
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\bin\x86\Debug\ru\ZedGraph.resources.dll
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\bin\x86\Debug\sk\ZedGraph.resources.dll
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\bin\x86\Debug\sv\ZedGraph.resources.dll
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\bin\x86\Debug\tr\ZedGraph.resources.dll
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\bin\x86\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\bin\x86\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\obj\x86\Debug\wfaContour.csproj.AssemblyReference.cache
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\obj\x86\Debug\wfaContour.csproj.SuggestedBindingRedirects.cache
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\obj\x86\Debug\wfaContour.Form1.resources
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\obj\x86\Debug\wfaContour.Properties.Resources.resources
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\obj\x86\Debug\wfaContour.csproj.GenerateResource.cache
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\obj\x86\Debug\wfaContour.csproj.CoreCompileInputs.cache
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\obj\x86\Debug\wfaContour.csproj.CopyComplete
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\obj\x86\Debug\wfaContour.exe
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\obj\x86\Debug\wfaContour.pdb
+D:\загрузки\Kontur\wfaContour\wfaContour\bin\x86\Debug\x86\concrt140.dll
+D:\загрузки\Kontur\wfaContour\wfaContour\bin\x86\Debug\x86\cvextern.dll
+D:\загрузки\Kontur\wfaContour\wfaContour\bin\x86\Debug\x86\msvcp140.dll
+D:\загрузки\Kontur\wfaContour\wfaContour\bin\x86\Debug\x86\opencv_videoio_ffmpeg411.dll
+D:\загрузки\Kontur\wfaContour\wfaContour\bin\x86\Debug\x86\vcruntime140.dll
+D:\загрузки\Kontur\wfaContour\wfaContour\bin\x86\Debug\wfaContour.exe.config
+D:\загрузки\Kontur\wfaContour\wfaContour\bin\x86\Debug\wfaContour.exe
+D:\загрузки\Kontur\wfaContour\wfaContour\bin\x86\Debug\wfaContour.pdb
+D:\загрузки\Kontur\wfaContour\wfaContour\bin\x86\Debug\Emgu.CV.UI.dll
+D:\загрузки\Kontur\wfaContour\wfaContour\bin\x86\Debug\Emgu.CV.World.dll
+D:\загрузки\Kontur\wfaContour\wfaContour\bin\x86\Debug\ZedGraph.dll
+D:\загрузки\Kontur\wfaContour\wfaContour\bin\x86\Debug\Emgu.CV.UI.xml
+D:\загрузки\Kontur\wfaContour\wfaContour\bin\x86\Debug\Emgu.CV.World.xml
+D:\загрузки\Kontur\wfaContour\wfaContour\bin\x86\Debug\ZedGraph.xml
+D:\загрузки\Kontur\wfaContour\wfaContour\bin\x86\Debug\de\ZedGraph.resources.dll
+D:\загрузки\Kontur\wfaContour\wfaContour\bin\x86\Debug\es\ZedGraph.resources.dll
+D:\загрузки\Kontur\wfaContour\wfaContour\bin\x86\Debug\fr\ZedGraph.resources.dll
+D:\загрузки\Kontur\wfaContour\wfaContour\bin\x86\Debug\hu\ZedGraph.resources.dll
+D:\загрузки\Kontur\wfaContour\wfaContour\bin\x86\Debug\it\ZedGraph.resources.dll
+D:\загрузки\Kontur\wfaContour\wfaContour\bin\x86\Debug\ja\ZedGraph.resources.dll
+D:\загрузки\Kontur\wfaContour\wfaContour\bin\x86\Debug\pt\ZedGraph.resources.dll
+D:\загрузки\Kontur\wfaContour\wfaContour\bin\x86\Debug\ru\ZedGraph.resources.dll
+D:\загрузки\Kontur\wfaContour\wfaContour\bin\x86\Debug\sk\ZedGraph.resources.dll
+D:\загрузки\Kontur\wfaContour\wfaContour\bin\x86\Debug\sv\ZedGraph.resources.dll
+D:\загрузки\Kontur\wfaContour\wfaContour\bin\x86\Debug\tr\ZedGraph.resources.dll
+D:\загрузки\Kontur\wfaContour\wfaContour\bin\x86\Debug\zh-cn\ZedGraph.resources.dll
+D:\загрузки\Kontur\wfaContour\wfaContour\bin\x86\Debug\zh-tw\ZedGraph.resources.dll
+D:\загрузки\Kontur\wfaContour\wfaContour\obj\x86\Debug\wfaContour.csproj.AssemblyReference.cache
+D:\загрузки\Kontur\wfaContour\wfaContour\obj\x86\Debug\wfaContour.csproj.SuggestedBindingRedirects.cache
+D:\загрузки\Kontur\wfaContour\wfaContour\obj\x86\Debug\wfaContour.Form1.resources
+D:\загрузки\Kontur\wfaContour\wfaContour\obj\x86\Debug\wfaContour.Properties.Resources.resources
+D:\загрузки\Kontur\wfaContour\wfaContour\obj\x86\Debug\wfaContour.csproj.GenerateResource.cache
+D:\загрузки\Kontur\wfaContour\wfaContour\obj\x86\Debug\wfaContour.csproj.CoreCompileInputs.cache
+D:\загрузки\Kontur\wfaContour\wfaContour\obj\x86\Debug\wfaContour.csproj.CopyComplete
+D:\загрузки\Kontur\wfaContour\wfaContour\obj\x86\Debug\wfaContour.exe
+D:\загрузки\Kontur\wfaContour\wfaContour\obj\x86\Debug\wfaContour.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\x86\concrt140.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\x86\cvextern.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\x86\msvcp140.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\x86\vcruntime140.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\wfaContour.exe.config
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\wfaContour.exe
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\wfaContour.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\Emgu.CV.UI.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\Emgu.CV.World.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\ZedGraph.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\Emgu.CV.UI.xml
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\Emgu.CV.World.xml
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\ZedGraph.xml
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\de\ZedGraph.resources.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\es\ZedGraph.resources.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\fr\ZedGraph.resources.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\hu\ZedGraph.resources.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\it\ZedGraph.resources.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\ja\ZedGraph.resources.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\pt\ZedGraph.resources.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\ru\ZedGraph.resources.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\sk\ZedGraph.resources.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\sv\ZedGraph.resources.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\tr\ZedGraph.resources.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\obj\x86\Debug\wfaContour.csproj.AssemblyReference.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\obj\x86\Debug\wfaContour.Form1.resources
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\obj\x86\Debug\wfaContour.Properties.Resources.resources
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\obj\x86\Debug\wfaContour.csproj.GenerateResource.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\obj\x86\Debug\wfaContour.csproj.CoreCompileInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\obj\x86\Debug\wfaContour.csproj.CopyComplete
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\obj\x86\Debug\wfaContour.exe
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\obj\x86\Debug\wfaContour.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\OpenCvSharp.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\System.Buffers.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\System.Memory.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\OpenCvSharp.xml
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\System.Buffers.xml
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\System.Memory.xml
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\System.Numerics.Vectors.xml
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\проекты\wfaContour\wfaContour\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml

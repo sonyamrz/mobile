@@ -1,0 +1,52 @@
+C:\Users\BonBaton\source\repos\MPU_MobileDev\wfaControlPazzle\wfaControlPazzle\bin\Debug\net7.0-windows\wfaControlPazzle.exe
+C:\Users\BonBaton\source\repos\MPU_MobileDev\wfaControlPazzle\wfaControlPazzle\bin\Debug\net7.0-windows\wfaControlPazzle.deps.json
+C:\Users\BonBaton\source\repos\MPU_MobileDev\wfaControlPazzle\wfaControlPazzle\bin\Debug\net7.0-windows\wfaControlPazzle.runtimeconfig.json
+C:\Users\BonBaton\source\repos\MPU_MobileDev\wfaControlPazzle\wfaControlPazzle\bin\Debug\net7.0-windows\wfaControlPazzle.dll
+C:\Users\BonBaton\source\repos\MPU_MobileDev\wfaControlPazzle\wfaControlPazzle\bin\Debug\net7.0-windows\wfaControlPazzle.pdb
+C:\Users\BonBaton\source\repos\MPU_MobileDev\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\wfaControlPazzle.csproj.AssemblyReference.cache
+C:\Users\BonBaton\source\repos\MPU_MobileDev\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\wfaControlPazzle.Form1.resources
+C:\Users\BonBaton\source\repos\MPU_MobileDev\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\wfaControlPazzle.csproj.GenerateResource.cache
+C:\Users\BonBaton\source\repos\MPU_MobileDev\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\wfaControlPazzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BonBaton\source\repos\MPU_MobileDev\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\wfaControlPazzle.AssemblyInfoInputs.cache
+C:\Users\BonBaton\source\repos\MPU_MobileDev\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\wfaControlPazzle.AssemblyInfo.cs
+C:\Users\BonBaton\source\repos\MPU_MobileDev\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\wfaControlPazzle.csproj.CoreCompileInputs.cache
+C:\Users\BonBaton\source\repos\MPU_MobileDev\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\wfaControlPazzle.dll
+C:\Users\BonBaton\source\repos\MPU_MobileDev\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\refint\wfaControlPazzle.dll
+C:\Users\BonBaton\source\repos\MPU_MobileDev\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\wfaControlPazzle.pdb
+C:\Users\BonBaton\source\repos\MPU_MobileDev\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\wfaControlPazzle.genruntimeconfig.cache
+C:\Users\BonBaton\source\repos\MPU_MobileDev\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\ref\wfaControlPazzle.dll
+C:\Users\BonBaton\source\repos\MPU_MobileDev\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\wfaControlPazzle.Properties.Resources.resources
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlPazzle\wfaControlPazzle\bin\Debug\net7.0-windows\wfaControlPazzle.exe
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlPazzle\wfaControlPazzle\bin\Debug\net7.0-windows\wfaControlPazzle.deps.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlPazzle\wfaControlPazzle\bin\Debug\net7.0-windows\wfaControlPazzle.runtimeconfig.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlPazzle\wfaControlPazzle\bin\Debug\net7.0-windows\wfaControlPazzle.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlPazzle\wfaControlPazzle\bin\Debug\net7.0-windows\wfaControlPazzle.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\wfaControlPazzle.Form1.resources
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\wfaControlPazzle.Properties.Resources.resources
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\wfaControlPazzle.csproj.GenerateResource.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\wfaControlPazzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\wfaControlPazzle.AssemblyInfoInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\wfaControlPazzle.AssemblyInfo.cs
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\wfaControlPazzle.csproj.CoreCompileInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\wfaControlPazzle.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\refint\wfaControlPazzle.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\wfaControlPazzle.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\wfaControlPazzle.genruntimeconfig.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\ref\wfaControlPazzle.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaControlPazzle\wfaControlPazzle\bin\Debug\net7.0-windows\wfaControlPazzle.exe
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaControlPazzle\wfaControlPazzle\bin\Debug\net7.0-windows\wfaControlPazzle.deps.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaControlPazzle\wfaControlPazzle\bin\Debug\net7.0-windows\wfaControlPazzle.runtimeconfig.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaControlPazzle\wfaControlPazzle\bin\Debug\net7.0-windows\wfaControlPazzle.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaControlPazzle\wfaControlPazzle\bin\Debug\net7.0-windows\wfaControlPazzle.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\wfaControlPazzle.Form1.resources
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\wfaControlPazzle.Properties.Resources.resources
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\wfaControlPazzle.csproj.GenerateResource.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\wfaControlPazzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\wfaControlPazzle.AssemblyInfoInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\wfaControlPazzle.AssemblyInfo.cs
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\wfaControlPazzle.csproj.CoreCompileInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\wfaControlPazzle.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\refint\wfaControlPazzle.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\wfaControlPazzle.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\wfaControlPazzle.genruntimeconfig.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaControlPazzle\wfaControlPazzle\obj\Debug\net7.0-windows\ref\wfaControlPazzle.dll

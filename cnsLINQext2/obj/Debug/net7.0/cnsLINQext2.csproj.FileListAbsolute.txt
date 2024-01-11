@@ -1,0 +1,14 @@
+C:\Users\Айхан\source\repos\cnsLINQext2\bin\Debug\net7.0\cnsLINQext2.exe
+C:\Users\Айхан\source\repos\cnsLINQext2\bin\Debug\net7.0\cnsLINQext2.deps.json
+C:\Users\Айхан\source\repos\cnsLINQext2\bin\Debug\net7.0\cnsLINQext2.runtimeconfig.json
+C:\Users\Айхан\source\repos\cnsLINQext2\bin\Debug\net7.0\cnsLINQext2.dll
+C:\Users\Айхан\source\repos\cnsLINQext2\bin\Debug\net7.0\cnsLINQext2.pdb
+C:\Users\Айхан\source\repos\cnsLINQext2\obj\Debug\net7.0\cnsLINQext2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Айхан\source\repos\cnsLINQext2\obj\Debug\net7.0\cnsLINQext2.AssemblyInfoInputs.cache
+C:\Users\Айхан\source\repos\cnsLINQext2\obj\Debug\net7.0\cnsLINQext2.AssemblyInfo.cs
+C:\Users\Айхан\source\repos\cnsLINQext2\obj\Debug\net7.0\cnsLINQext2.csproj.CoreCompileInputs.cache
+C:\Users\Айхан\source\repos\cnsLINQext2\obj\Debug\net7.0\cnsLINQext2.dll
+C:\Users\Айхан\source\repos\cnsLINQext2\obj\Debug\net7.0\refint\cnsLINQext2.dll
+C:\Users\Айхан\source\repos\cnsLINQext2\obj\Debug\net7.0\cnsLINQext2.pdb
+C:\Users\Айхан\source\repos\cnsLINQext2\obj\Debug\net7.0\cnsLINQext2.genruntimeconfig.cache
+C:\Users\Айхан\source\repos\cnsLINQext2\obj\Debug\net7.0\ref\cnsLINQext2.dll

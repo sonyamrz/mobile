@@ -1,0 +1,100 @@
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount\wfaGameTrainerAccount\bin\Debug\net6.0-windows\wfaGameTrainerAccount.exe
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount\wfaGameTrainerAccount\bin\Debug\net6.0-windows\wfaGameTrainerAccount.deps.json
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount\wfaGameTrainerAccount\bin\Debug\net6.0-windows\wfaGameTrainerAccount.runtimeconfig.json
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount\wfaGameTrainerAccount\bin\Debug\net6.0-windows\wfaGameTrainerAccount.dll
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount\wfaGameTrainerAccount\bin\Debug\net6.0-windows\wfaGameTrainerAccount.pdb
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.csproj.AssemblyReference.cache
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.Fm.resources
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.csproj.GenerateResource.cache
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.GeneratedMSBuildEditorConfig.editorconfig
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.AssemblyInfoInputs.cache
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.AssemblyInfo.cs
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.csproj.CoreCompileInputs.cache
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.dll
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\refint\wfaGameTrainerAccount.dll
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.pdb
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.genruntimeconfig.cache
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\ref\wfaGameTrainerAccount.dll
+C:\Users\Пользователь\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\bin\Debug\net6.0-windows\wfaGameTrainerAccount.exe
+C:\Users\Пользователь\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\bin\Debug\net6.0-windows\wfaGameTrainerAccount.deps.json
+C:\Users\Пользователь\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\bin\Debug\net6.0-windows\wfaGameTrainerAccount.runtimeconfig.json
+C:\Users\Пользователь\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\bin\Debug\net6.0-windows\wfaGameTrainerAccount.dll
+C:\Users\Пользователь\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\bin\Debug\net6.0-windows\wfaGameTrainerAccount.pdb
+C:\Users\Пользователь\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.Fm.resources
+C:\Users\Пользователь\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.dll
+C:\Users\Пользователь\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\refint\wfaGameTrainerAccount.dll
+C:\Users\Пользователь\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.pdb
+C:\Users\Пользователь\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\ref\wfaGameTrainerAccount.dll
+D:\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\bin\Debug\net6.0-windows\wfaGameTrainerAccount.exe
+D:\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\bin\Debug\net6.0-windows\wfaGameTrainerAccount.deps.json
+D:\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\bin\Debug\net6.0-windows\wfaGameTrainerAccount.runtimeconfig.json
+D:\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\bin\Debug\net6.0-windows\wfaGameTrainerAccount.dll
+D:\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\bin\Debug\net6.0-windows\wfaGameTrainerAccount.pdb
+D:\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.csproj.AssemblyReference.cache
+D:\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.Fm.resources
+D:\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.csproj.GenerateResource.cache
+D:\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.AssemblyInfoInputs.cache
+D:\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.AssemblyInfo.cs
+D:\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.csproj.CoreCompileInputs.cache
+D:\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.dll
+D:\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\refint\wfaGameTrainerAccount.dll
+D:\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.pdb
+D:\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.genruntimeconfig.cache
+D:\Desktop\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\ref\wfaGameTrainerAccount.dll
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\bin\Debug\net6.0-windows\wfaGameTrainerAccount.exe
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\bin\Debug\net6.0-windows\wfaGameTrainerAccount.deps.json
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\bin\Debug\net6.0-windows\wfaGameTrainerAccount.runtimeconfig.json
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\bin\Debug\net6.0-windows\wfaGameTrainerAccount.dll
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\bin\Debug\net6.0-windows\wfaGameTrainerAccount.pdb
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.csproj.AssemblyReference.cache
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.Fm.resources
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.csproj.GenerateResource.cache
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.GeneratedMSBuildEditorConfig.editorconfig
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.AssemblyInfoInputs.cache
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.AssemblyInfo.cs
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.csproj.CoreCompileInputs.cache
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.dll
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\obj\Debug\net6.0-windows\refint\wfaGameTrainerAccount.dll
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.pdb
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.genruntimeconfig.cache
+D:\2021\Мосполитех\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\obj\Debug\net6.0-windows\ref\wfaGameTrainerAccount.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\bin\Debug\net6.0-windows\wfaGameTrainerAccount.exe
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\bin\Debug\net6.0-windows\wfaGameTrainerAccount.deps.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\bin\Debug\net6.0-windows\wfaGameTrainerAccount.runtimeconfig.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\bin\Debug\net6.0-windows\wfaGameTrainerAccount.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\bin\Debug\net6.0-windows\wfaGameTrainerAccount.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.Fm.resources
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.csproj.GenerateResource.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.AssemblyInfoInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.AssemblyInfo.cs
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.csproj.CoreCompileInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\obj\Debug\net6.0-windows\refint\wfaGameTrainerAccount.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.genruntimeconfig.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\)))\3 курс 1 семестр\wfaGameTrainerAccount1\wfaGameTrainerAccount\obj\Debug\net6.0-windows\ref\wfaGameTrainerAccount.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGameTrainerAccount\wfaGameTrainerAccount\bin\Debug\net6.0-windows\wfaGameTrainerAccount.exe
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGameTrainerAccount\wfaGameTrainerAccount\bin\Debug\net6.0-windows\wfaGameTrainerAccount.deps.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGameTrainerAccount\wfaGameTrainerAccount\bin\Debug\net6.0-windows\wfaGameTrainerAccount.runtimeconfig.json
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGameTrainerAccount\wfaGameTrainerAccount\bin\Debug\net6.0-windows\wfaGameTrainerAccount.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGameTrainerAccount\wfaGameTrainerAccount\bin\Debug\net6.0-windows\wfaGameTrainerAccount.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.Fm.resources
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.csproj.GenerateResource.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.AssemblyInfoInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.AssemblyInfo.cs
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.csproj.CoreCompileInputs.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\refint\wfaGameTrainerAccount.dll
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.pdb
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\wfaGameTrainerAccount.genruntimeconfig.cache
+C:\Users\Софья Морозова\Desktop\уник\3 курс\мобилочка\гит\дз\wfaGameTrainerAccount\wfaGameTrainerAccount\obj\Debug\net6.0-windows\ref\wfaGameTrainerAccount.dll

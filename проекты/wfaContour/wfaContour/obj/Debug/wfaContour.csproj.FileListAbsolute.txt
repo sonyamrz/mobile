@@ -1,0 +1,6 @@
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\obj\Debug\wfaContour.csproj.AssemblyReference.cache
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\obj\Debug\wfaContour.csproj.SuggestedBindingRedirects.cache
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\obj\Debug\wfaContour.Form1.resources
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\obj\Debug\wfaContour.Properties.Resources.resources
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\obj\Debug\wfaContour.csproj.GenerateResource.cache
+C:\Users\Numb\source\repos\NewRepo\wfaContour\wfaContour\obj\Debug\wfaContour.csproj.CoreCompileInputs.cache
